@@ -1,0 +1,32 @@
+# sass cache
+.sass-cache
+*.DS_Store
+.idea
+
+# common
+node_modules
+npm-debug.log
+
+#dev
+demo
+style/page
+style/export
+
+# component构建目录
+/component
+
+# doc
+/_docs
+
+# test
+bundle.js
+.nyc_output
+
+# ykit
+dev
+prd
+ver
+ykit.hosts
+
+# vscode
+.vscode
